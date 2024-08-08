@@ -2,5 +2,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    'https://nkaffoadeline.github.io',
+   site: 'https://nkaffoadeline.github.io',
 })
